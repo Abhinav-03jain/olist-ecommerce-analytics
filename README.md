@@ -158,7 +158,27 @@ Provides a consolidated view of business trends and additional analytical observ
 - Repeat customer alert
 - Forecast-related analysis
 
+------
+
+## 🖼️ Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](Screenshots/01_Executive_Overview.png)
+
+### 2. Sales & Freight
+![Sales and Freight](Screenshots/02_Sales_and_Freight.png)
+
+### 3. Customer 360°
+![Customer 360](Screenshots/03_Customer_360.png)
+
+### 4. Product & Seller
+![Product and Seller](Screenshots/04_Product_and_Seller.png)
+
+### 5. Insights & Forecast
+![Insights and Forecast](Screenshots/05_Insights_and_Forecast.png)
+
 ---
+
 
 ## 🔍 Key Business Questions
 
