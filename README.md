@@ -248,6 +248,14 @@ Olist-Ecommerce-Analytics/
 
 ---
 
+## 📊 Power BI Dashboard
+
+The interactive Power BI dashboard provides insights into sales performance, customer behavior, product performance, freight analysis, and business trends.
+
+**Download the Power BI Dashboard (.pbix):**
+
+[Click here to access the Power BI Dashboard](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+
 ## 👨‍💻 About the Author
 
 **Abhinav Vaidhya**
